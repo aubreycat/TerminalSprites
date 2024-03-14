@@ -1,2 +1,2 @@
 # TerminalSprites
- Meow :3
+ Basic Animations from PNG's in your terminal ^-^
